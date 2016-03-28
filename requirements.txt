@@ -6,3 +6,4 @@ StarWors forevo
 git status
 git add name faels
 git add name faels
+git push
